@@ -6,10 +6,10 @@
 
 ## 📃 Repositories
 ### 💻 Projects
-* [yaongegallery](https://github.com/choidh88/yaongegallery)
+* [yaongegallery](https://github.com/choidh88/yaongegallery)<br>
   `html`, `css`, `javascript`를 활용한 정적 웹으로 야옹이 사진을 볼 수 있는 정적 웹
-* [CBNU-CCC/cbnuccc-backend](https://github.com/CBNU-CCC/cbnuccc-backend)
-  충북대학교 CCC 소개 웹사이트<br>
+* [CBNU-CCC/cbnuccc-backend](https://github.com/CBNU-CCC/cbnuccc-backend)<br>
+  협업하여 만든 충북대학교 CCC 소개 웹사이트<br>
   `Java`를 이용한 서버<br>
   본 레파지토리는 현재 비공개임 (추후 공개할 예정)
 
@@ -20,7 +20,7 @@
 * [mini-cli](https://github.com/choidh88/mini-cli)
 
 ### 🗂️ Others
-* [kakao-login](https://github.com/choidh88/kakao-login)
+* [kakao-login](https://github.com/choidh88/kakao-login)<br>
   카카오 로그인 OAuth 중 필수적인 것을 자바로 구현
 * [choidh88](https://github.com/choidh88/choidh88)
 
