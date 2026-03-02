@@ -13,7 +13,7 @@
   `Java`를 이용한 서버<br>
   본 레파지토리는 현재 비공개임 (추후 공개할 예정)
 
-### 📖 Assignments or Repositories For Classes
+### 📖 Assignments or Repositories for Classes
 * [practicerepo](https://github.com/choidh88/practicerepo)
 * [oss-vscode](https://github.com/choidh88/oss-vscode)
 * [ics_assignments](https://github.com/choidh88/ics_assignments)
