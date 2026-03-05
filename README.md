@@ -11,7 +11,6 @@
 * [CBNU-CCC/cbnuccc-backend](https://github.com/CBNU-CCC/cbnuccc-backend)<br>
   협업하여 만든 충북대학교 CCC 소개 웹사이트<br>
   `Java`를 이용한 서버<br>
-  본 레파지토리는 현재 비공개임 (추후 공개할 예정)
 
 ### 📖 Assignments or Repositories for Classes
 * [practicerepo](https://github.com/choidh88/practicerepo)
